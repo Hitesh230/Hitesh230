@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 MCA Graduate | Uttranchal University (Class of 2023-2025)
-- 💼 Business Development Associate @ Teachnook
 - 💡 Passionate about Data Analytics, Web Development, and AI-Powered Solutions
 - 🏆 Certified in **Data Analysis**, **Data Visualization**, and **Data Cleaning**
 - 🌱 Currently exploring **MERN Stack** & **Predictive Analytics**
