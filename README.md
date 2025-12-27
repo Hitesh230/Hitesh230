@@ -8,10 +8,10 @@
 - 📚 Interested in **Business Intelligence & Digital Well-being Technologies**
 
 🔧 Skills & Technologies  
-- **Programming Languages**: Python, JavaScript, R  
+- **Programming Languages**: Python, JavaScript, 
 - **Web Development**: HTML, CSS, React, Node.js, Express, MongoDB  
 - **Data Analytics**: Pandas, NumPy, Matplotlib, Power BI  
-- **Databases**: MySQL, Firebase, MongoDB  
+- **Databases**: MySQL, MongoDB  
 - **Other Tools**: Git, GitHub
 
 📬 Connect with Me  
